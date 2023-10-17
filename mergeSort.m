@@ -29,7 +29,7 @@ function w = merge(u,v)
 %This function takes 2 sorted cell array as input and retuns sorted new
 %cell array(descending order) by merging them
 
-%Murat Işıklan 2233567
+%Murat Işıklan 
 
 n = length(u);
 m = length(v); 
