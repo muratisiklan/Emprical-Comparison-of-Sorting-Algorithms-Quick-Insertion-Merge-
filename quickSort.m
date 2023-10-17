@@ -27,7 +27,7 @@ function [y,z] = quickLess(pivot,vector)
 % y <- array elemets less than array's pivot indexed element
 % z <- array elemets greater than array's pivot indexed element
 
-%Murat Işıklan 2233567
+%Murat Işıklan
 
 %n is length of cell array(vector)
 n = length(vector);
